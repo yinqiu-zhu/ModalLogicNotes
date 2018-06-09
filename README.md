@@ -1,2 +1,2 @@
 # ModalLogicNotes
-A collection of modal logic notes from various books and papers.
+A collection of non-classical logics.
